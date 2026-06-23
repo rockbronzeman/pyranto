@@ -8,7 +8,7 @@ without sacrificing compatibility with the Python ecosystem.
 ## Features
 - Write Python using multiple languages
 - Transpile to, or execute as if, standard Python
-- Transpile standard Python to target human language
+- Translate standard Python to target human language
 
 ## Installation (not yet published)
 pip install pyranto
