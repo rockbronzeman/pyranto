@@ -1,4 +1,4 @@
-# Pyranto, a multilingual Python transpiler.
+# Pyranto, a multilingual Python transpiler
 
 ## Goal
 Enable people to learn programming in their native language via Python,
