@@ -1,0 +1,70 @@
+Ingilizce ismin altina cevirilmis mesaj yazilacak.
+Yalniz bu dosya icin (exception_explain.txt) mesaji
+Ingilizce yaz.
+
+RecursionError
+
+It appears you have a function in your program that
+calls itself, which has called itself too many times
+without returning.
+END
+
+ArithmeticError               AritmetikHatasi*
+
+AssertionError                EminolHatasi*
+
+AttributeError                OzellikHatasi*
+
+Exception                     Ayricalik*
+
+EOFError                      DosyaSonuHatasi*
+
+GeneratorExit                 JeneratorCikisi*
+
+ImportError                   IthalHatasi*
+
+IndentationError              SatirbasiHatasi*
+
+IndexError                    EndeksHatasi*
+
+KeyError                      AnahtarHatasi*
+
+KeyboardInterrupt             KlavyeIskesimi*
+
+LookupError                   AratmaHatasi*
+
+MemoryError                   HafizaHatasi*
+
+NameError                     IsimHatasi*
+
+NotImplementedError           SKIP
+
+OSError                       IsletimSistemiHatasi*
+
+OverflowError                 TasmaHatasi*
+
+ReferenceError                ReferansHatasi*
+
+RuntimeError                  IsleyisHatasi*
+
+StopIteration                 TekrarlayisiDurdur*
+
+SyntaxError                   SozdizimHatasi*
+
+TabError                      SekmeHatasi*
+
+SystemError                   SistemHatasi*
+
+SystemExit                    SistemCikisi*
+
+TypeError                     TurHatasi*
+
+UnboundLocalError             BaglantisizYerelHatasi*
+
+UnicodeError                  UnicodeHatasi*
+
+UnicodeTranslateError         UnicodeCeviriHatasi*
+
+ValueError                    DegerHatasi*
+
+ZeroDivisionError             SifiraBolumHatasi*

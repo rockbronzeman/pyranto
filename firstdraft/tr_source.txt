@@ -1,0 +1,30 @@
+tani bardak():
+    yazdir("bardak")
+
+sinif Bardak:
+
+    tani __init__(kendi, su):
+        kendi.su = su
+
+    tani dok(kendi):
+        yazdir(kendi.su)
+        kendi.su = 0
+
+her x ait aralik(2):
+    yazdir(x-1.5)
+    yazdir(tam(x-1.5))
+
+yazdir(noktali(5))
+
+bardak()
+
+brdk = Bardak(50)
+brdk.dok()
+brdk.dok()
+
+s = "elma"
+print(s.ilkharfbuyuk())
+
+dogruyken Dogru:
+    yazdir(".")
+    kurtul
